@@ -1,0 +1,65 @@
+[
+  {
+    "id": 2,
+    "title": "\u0410\u0432\u0430\u0444\u0430\u0444\u044b",
+    "author": "\u0410\u0432\u0442\u043e\u0440",
+    "published_data": "2005",
+    "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+  },
+  {
+    "id": 4,
+    "title": "Test book",
+    "author": "Test author",
+    "published_data": "2005",
+    "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+  },
+  {
+    "id": 5,
+    "title": "Test book",
+    "author": "Test author",
+    "published_data": "2005",
+    "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+  },
+  {
+    "id": 6,
+    "title": "Test book",
+    "author": "Test author",
+    "published_data": "2005",
+    "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+  },
+  {
+    "id": 7,
+    "title": "Test book",
+    "author": "Test author",
+    "published_data": "2005",
+    "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+  },
+  {
+    "id": 8,
+    "title": "Test book",
+    "author": "Test author",
+    "published_data": "2005",
+    "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+  },
+  {
+    "id": 9,
+    "title": "Test book",
+    "author": "Test author",
+    "published_data": "2005",
+    "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+  },
+  {
+    "id": 10,
+    "title": "Test book",
+    "author": "Test author",
+    "published_data": "2005",
+    "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+  },
+  {
+    "id": 11,
+    "title": "Test book",
+    "author": "Test author",
+    "published_data": "2005",
+    "status": "\u0432 \u043d\u0430\u043b\u0438\u0447\u0438\u0438"
+  }
+]
